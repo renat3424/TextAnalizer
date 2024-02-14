@@ -4,7 +4,10 @@ This project is a simple text analizer which can find a word or letter in text d
 
 
 -finding a most common word
+
 -finding the longest word
+
 -finding a number of words of text document
+
 -finding a number of letters of text document
 
